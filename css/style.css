@@ -1,0 +1,21 @@
+.btn{
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+    border-radius: 15px;
+}
+p{
+   font-size: 20px;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: green;
+}
+.text{
+    color: white;
+
+    font-size: 30px;
+}
+body{
+    background-color: gray;
+}
